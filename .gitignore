@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+outputs/*.csv
+outputs/*.json
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+*.bak
+*.py.bak
+.DS_Store
